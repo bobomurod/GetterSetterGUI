@@ -1,0 +1,25 @@
+{
+  "name": "gettersettergui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobomurod/GetterSetterGUI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bobomurod/GetterSetterGUI/issues"
+  },
+  "homepage": "https://github.com/bobomurod/GetterSetterGUI#readme",
+  "dependencies": {
+    "web3": "^1.0.0-beta.30"
+  },
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
